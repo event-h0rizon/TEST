@@ -13,9 +13,9 @@ body {
   margin-right: 0px; */
 
 
-  max-width: 80%;
+  max-width: 100%;
 }
 
 .pricing-header {
-  /* max-width: 50%;  */
+  max-width: 50%; 
 }
