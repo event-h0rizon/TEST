@@ -17,5 +17,24 @@ body {
 }
 
 .pricing-header {
-  max-width: 50%; 
+  /* max-width: 50%;  */
+}
+
+.myMain {
+  max-width: 80vw; 
+  margin: 0px auto;
+
+}
+
+.myFooter {
+  max-width: 80vw; 
+  margin: 0px auto;
+
+}
+.highlighted {
+  background-color: #F50057;
+  color: white;
+}
+.textarea {
+  width: 100%;
 }
